@@ -33,7 +33,8 @@ button {
 }
 
 .off i {
-  filter: grayscale(100%);
+  /* filter: grayscale(100%); */
+filter: grayscale();
 }
 
 i {
